@@ -41,6 +41,14 @@ Aprender o básico sobre contribuição no GitHub.
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>    
     </tr>
+    <tr>
+        <td>05</td>
+        <td>Resumão e Explicação Sobre a Automação dos PRs</td>
+    </tr>
+    <tr>
+        <td>06</td>
+        <td>Entendendo o Desafio</td>
+    </tr>
   </tbody>
 </table>
 
