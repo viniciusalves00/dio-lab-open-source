@@ -15,6 +15,8 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-4d4d4d?style=for-the-badge&logo=css3&logoColor=aqua)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-4d4d4d?style=for-the-badge&logo=javascript&logoColor=aqua)
+
 ![GitHub](https://img.shields.io/badge/GitHub-4d4d4d?style=for-the-badge&logo=github&logoColor=aqua)
 
 ![Git](https://img.shields.io/badge/GIT-4d4d4d?style=for-the-badge&logo=git&logoColor=aqua)
